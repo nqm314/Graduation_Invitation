@@ -20,8 +20,8 @@ window.INVITATION_CONFIG = {
 
   ceremony: {
     // Thời gian đếm ngược (ISO 8601, múi giờ Việt Nam +07:00)
-    isoDateTime: "2026-11-28T11:00:00+07:00",
-    isoEndDateTime: "2026-11-28T13:30:00+07:00",
+    isoDateTime: "2026-11-28T14:00:00+07:00",
+    isoEndDateTime: "2026-11-28T16:30:00+07:00",
     dayOfWeek: "Thứ Bảy",
     dateDisplay: "28.11.2026",
     dateFull: "Thứ Bảy, ngày 28 tháng 11 năm 2026",
