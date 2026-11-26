@@ -170,7 +170,7 @@
     const url = URL.createObjectURL(blob);
     const link = document.createElement("a");
     link.href = url;
-    link.download = "Le-Tot-Nghiep-Nhu-Huy-Hoang.ics";
+    link.download = "Le-Tot-Nghiep-Nguyen-Quang-Minh.ics";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

@@ -4,13 +4,13 @@
  */
 window.INVITATION_CONFIG = {
   graduate: {
-    fullName: "Nhữ Huy Hoàng",
-    shortName: "Hoàng",
+    fullName: "Nguyễn Quang Minh",
+    shortName: "Minh",
     titleBadge: "Lễ Tốt Nghiệp Đại Học · Khóa 2022 – 2026",
     university: "Trường Đại học Bách Khoa TP.HCM",
     universityShort: "ĐH Bách Khoa — ĐHQG-HCM",
-    faculty: "Khoa Cơ khí",
-    major: "Ngành Kỹ thuật Cơ điện tử",
+    faculty: "Khoa Khoa học và Kỹ thuật Máy tính",
+    major: "Ngành Khoa học Máy tính",
     cohort: "2022 – 2026",
     // Thay bằng ảnh chân dung của bạn nếu muốn (vd: "assets/anh-cua-hoang.jpg")
     heroImage: "assets/hero-illustration.jpg",
@@ -25,7 +25,7 @@ window.INVITATION_CONFIG = {
     dayOfWeek: "Thứ Bảy",
     dateDisplay: "28.11.2026",
     dateFull: "Thứ Bảy, ngày 28 tháng 11 năm 2026",
-    timeDisplay: "11:00 Sáng",
+    timeDisplay: "14:00 Chiều",
     venueName: "Hội trường A5 — Trường ĐH Bách Khoa TP.HCM",
     campusNote: "Cơ sở 1 · 268 Lý Thường Kiệt",
     address: "268 Lý Thường Kiệt, Phường Diên Hồng (P.14 cũ), Quận 10, TP. Hồ Chí Minh",
@@ -38,40 +38,19 @@ window.INVITATION_CONFIG = {
   letter: {
     greeting: "Gửi những người thương yêu,",
     paragraphs: [
-      "Bốn năm thanh xuân dưới mái trường Bách Khoa cuối cùng cũng đến ngày khép lại thật trọn vẹn. Từ những buổi lên giảng đường sớm, những đêm thức trắng cùng đồ án Cơ điện tử, cho đến những kỷ niệm đầy tiếng cười bên bạn bè — mỗi bước đi trên hành trình này đều trở nên ý nghĩa hơn nhờ có sự yêu thương và đồng hành của mọi người.",
-      "Sáng thứ Bảy ngày 28/11 sắp tới, Hoàng sẽ chính thức khoác lên mình bộ lễ phục tốt nghiệp. Thật hạnh phúc nếu có sự hiện diện của gia đình, người thân và bạn bè đến chung vui, gửi nhau những cái ôm và lưu giữ thật nhiều tấm ảnh đáng nhớ trong cột mốc đặc biệt này!"
+      "Bốn năm thanh xuân dưới mái trường Bách Khoa cuối cùng cũng đến ngày khép lại thật trọn vẹn. Từ những buổi lên giảng đường sớm, những đêm thức trắng cùng đồ án, cho đến những kỷ niệm đầy tiếng cười bên bạn bè — mỗi bước đi trên hành trình này đều trở nên ý nghĩa hơn nhờ có sự yêu thương và đồng hành của mọi người.",
+      "Chiều thứ Bảy ngày 28/11 sắp tới, tui sẽ chính thức khoác lên mình bộ lễ phục tốt nghiệp. Thật hạnh phúc nếu có sự hiện diện của gia đình, người thân và bạn bè đến chung vui, gửi nhau những cái ôm và lưu giữ thật nhiều tấm ảnh đáng nhớ trong cột mốc đặc biệt này!"
     ],
     closing: "Hẹn gặp bạn tại sân trường Bách Khoa nhé,",
-    signature: "Nhữ Huy Hoàng",
+    signature: "Nguyễn Quang Minh",
   },
 
   schedule: [
     {
-      time: "10:15 – 10:45",
-      title: "Đón khách & Gửi xe",
+      time: "14:00 – 17:30",
+      title: "Đón khách & Gửi xe & Giao lưu vui vẻ",
       description:
-        "Khách mời di chuyển đến Cơ sở 1 (268 Lý Thường Kiệt), gửi xe và gặp mặt trò chuyện đầu giờ tại khuôn viên sân A5.",
-      highlight: false,
-    },
-    {
-      time: "11:00 – 12:15",
-      title: "Nghi thức Lễ Tốt Nghiệp",
-      description:
-        "Buổi lễ trao bằng tốt nghiệp chính thức diễn ra tại Hội trường A5 — khoảnh khắc khép lại hành trình 4 năm đại học.",
-      highlight: true,
-    },
-    {
-      time: "12:15 – 13:30",
-      title: "Chụp ảnh kỷ niệm & Chung vui",
-      description:
-        "Gặp gỡ ngoài sân trường Bách Khoa, tặng hoa và lưu lại những khung hình thanh xuân thật rạng rỡ cùng gia đình và bạn bè.",
-      highlight: false,
-    },
-    {
-      time: "Sau 13:30",
-      title: "Gặp gỡ thân mật",
-      description:
-        "Cùng nhau ăn trưa nhẹ hoặc cà phê hàn huyên gần trường để kéo dài thêm niềm vui ngày ra trường.",
+        "Bạn có thể gửi xe máy trong khuôn viên trường hoặc các bãi giữ xe lân cận. Sau đó, hãy đến Hội trường A5 để chụp ảnh lưu niệm và giao lưu cùng tui nha.",
       highlight: false,
     },
   ],
@@ -90,15 +69,15 @@ window.INVITATION_CONFIG = {
     {
       title: "Gợi ý nhỏ khi đi tham dự",
       detail:
-        "Bạn nên đến sớm trước 11:00 khoảng 30 – 45 phút để thong thả gửi xe và chụp ảnh. Đến cổng cứ gọi trực tiếp cho Hoàng nhé!",
+        "Bạn cứ thoải mái đến trong khoảng thời gian 14:00 – 17:30 nha. Đến cổng cứ gọi trực tiếp cho tui nhé!",
     },
   ],
 
   contact: {
-    phoneDisplay: "0355 278 265",
-    phoneRaw: "0355278265",
-    zaloUrl: "https://zalo.me/0355278265",
-    note: "Khi đến cổng trường hoặc cần chỉ đường vào Hội trường A5, bạn cứ gọi điện hoặc nhắn Zalo cho Hoàng nhé!",
+    phoneDisplay: "0964 628 105",
+    phoneRaw: "0964628105",
+    zaloUrl: "https://zalo.me/0964628105",
+    note: "Khi đến cổng trường hoặc cần chỉ đường vào Hội trường A5, bạn cứ gọi điện hoặc nhắn Zalo cho tui nhé!",
   },
 
   music: {
