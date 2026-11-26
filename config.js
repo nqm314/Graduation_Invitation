@@ -25,7 +25,7 @@ window.INVITATION_CONFIG = {
     dayOfWeek: "Thứ Bảy",
     dateDisplay: "28.11.2026",
     dateFull: "Thứ Bảy, ngày 28 tháng 11 năm 2026",
-    timeDisplay: "14:00 Chiều",
+    timeDisplay: "14:00 Chiều - 17:30 Chiều",
     venueName: "Hội trường A5 — Trường ĐH Bách Khoa TP.HCM",
     campusNote: "Cơ sở 1 · 268 Lý Thường Kiệt",
     address: "268 Lý Thường Kiệt, Phường Diên Hồng (P.14 cũ), Quận 10, TP. Hồ Chí Minh",
